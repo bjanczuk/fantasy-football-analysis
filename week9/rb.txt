@@ -1,0 +1,100 @@
+1. Christian McCaffrey, Car
+Ten	2	1	1	1	1	1	1.2
+2. Dalvin Cook, Min
+@KC	1	2	2	2	2	2	1.8
+3. Ezekiel Elliott, Dal
+@NYG	3	3	3	3	3	4	3.2
+4. Saquon Barkley, NYG
+Dal	4	4	4	5	4	3	4.0
+5. Leonard Fournette, Jax
+Hou	7	5	5	7	5	5	5.7
+6. Nick Chubb, Cle
+@Den	8	6	6	6	6	6	6.3
+7. Le'Veon Bell, NYJ
+@Mia	6	7	7	8	8	7	7.2
+8. Aaron Jones, GB
+@LAC	5	8	9	4	7	10	7.2
+9. Chris Carson, Sea
+TB	10	9	8	12	9	9	9.5
+10. Josh Jacobs, Oak
+Det	9	10	10	9	10	11	9.8
+11. Derrick Henry, Ten
+@Car	12	11	11	13	12	15	12.3
+12. Austin Ekeler, LAC
+GB	15	14	13	11	15	14	13.7
+13. Phillip Lindsay, Den
+Cle	13	13	16	16	13	13	14.0
+14. James White, NEQ
+@Bal	18	15	15	17	16	16	16.2
+15. Marlon Mack, Ind
+@Pit	14	17	18	20	14	17	16.7
+16. Melvin Gordon, LAC
+GB	17	18	14	15	19	18	16.8
+17. Royce Freeman, Den
+Cle	16	19	19	19	17	20	18.3
+18. Mark Ingram II, Bal
+NE	20	16	17	18	20	21	18.7
+19. David Montgomery, Chi
+@Phi	19	23	20	22	18	19	20.2
+20. Jordan Howard, Phi
+Chi	21	21	22	21	22	24	21.8
+21. Carlos Hyde, Hou
+@Jax	22	20	23	25	21	22	22.2
+22. Mark Walton, Mia
+NYJ	25	25	21	29	23	23	24.3
+23. Sony Michel, NE
+@Bal	26	22	26	23	25	26	24.7
+24. Jaylen Samuels, Pit
+Ind	11	36	12	46	11	34	25.0
+25. LeSean McCoy, KC
+Min	30	27	24	26	26	28	26.8
+26. Jamaal Williams, GB
+@LAC	24	24	25	37	29	33	28.7
+27. Frank Gore, Buf
+Wsh	27	29	27	30	28	32	28.8
+28. Devin Singletary, Buf
+Wsh	23	26	33	27	30	35	29.0
+29. Duke Johnson, Hou
+@Jax	28	28	28	34	27	31	29.3
+30. Adrian Peterson, Wsh
+@Buf	31	40	29	28	24	29	30.2
+31. Tarik Cohen, Chi
+@Phi	32	31	30	35	31	30	31.5
+32. James Conner, PitD
+Ind	NR	12	NR	14	NR	12	31.8
+33. Miles Sanders, Phi
+Chi	29	30	32	32	33	39	32.5
+34. Ty Johnson, Det
+@Oak	33	32	34	41	32	37	34.8
+35. Rex Burkhead, NEQ
+@Bal	35	35	35	36	34	41	36.0
+36. Tevin Coleman, SF
+@Ari	NR	NR	50	10	NR	8	36.8
+37. Peyton Barber, TB
+@Sea	39	38	31	38	35	40	36.8
+38. Damien Williams, KC
+Min	34	33	38	39	37	43	37.3
+39. Ronald Jones II, TB
+@Sea	36	34	37	40	36	42	37.5
+40. Kalen Ballage, Mia
+NYJ	37	37	36	42	43	38	38.8
+41. Nyheim Hines, Ind
+@Pit	41	39	39	44	38	44	40.8
+42. Tra Carson, DetQ
+@Oak	38	41	40	45	41	45	41.7
+43. Matt Breida, SF
+@Ari	NR	NR	NR	24	NR	25	42.2
+44. Alexander Mattison, Min
+@KC	40	45	41	47	39	48	43.3
+45. Kenyan Drake, Ari
+SF	NR	NR	NR	31	NR	27	43.7
+46. Dare Ogunbowale, TB
+@Sea	43	43	42	50	42	46	44.3
+47. Chris Thompson, WshO
+@Buf	NR	NR	NR	33	NR	36	45.5
+48. Wendell Smallwood, Wsh
+@Buf	44	46	44	NR	40	NR	46.0
+49. J.D. McKissic, Det
+@Oak	42	42	47	48	47	NR	46.2
+50. DeAndre Washington, Oak
+Det	47	44	46	NR	45	47	46.7

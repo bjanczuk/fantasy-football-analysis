@@ -1,0 +1,25 @@
+QB/L/Jameis Winston
+QB/L/Tom Brady
+QB/L/Josh Allen
+QB/H/Carson Wentz
+QB/H/Kyler Murray
+QB/H/Sam Darnold
+
+RB/L/Josh Jacobs
+RB/L/Melvin Gordon
+RB/L/Le'Veon Bell
+RB/H/Todd Gurley
+RB/H/David Montgomery
+RB/H/Ronald Jones
+RB/H/Royce Freeman
+RB/H/Phillip Lindsay
+
+WR/L/Keenan Allen
+WR/L/DJ Moore
+WR/L/Michael Gallup
+WR/L/Jamison Crowder
+TE/L/Darren Waller
+WR/H/Allen Robinson
+WR/H/Mike Williams
+WR/H/Stefon Diggs
+TE/H/Zach Ertz

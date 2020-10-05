@@ -1,0 +1,106 @@
+1. Julio Jones, Atl
+@Hou	2	2	2	1	1	1	1.5
+2. Keenan Allen, LAC
+Den	4	3	1	2	2	2	2.3
+3. DeAndre Hopkins, Hou
+Atl	1	1	3	3	5	3	2.7
+4. Michael Thomas, NO
+TB	3	4	4	4	3	4	3.7
+5. Odell Beckham Jr., Cle
+@SF	7	6	5	5	4	5	5.3
+6. Mike Evans, TB
+@NO	5	5	6	6	6	6	5.7
+7. Chris Godwin, TB
+@NO	6	8	7	9	7	7	7.3
+8. T.Y. Hilton, IndQ
+@KC	10	7	8	7	8	8	8.0
+9. Tyler Boyd, Cin
+Ari	11	12	9	12	9	9	10.3
+10. Adam Thielen, Min
+@NYG	9	10	13	10	13	11	11.0
+11. Amari Cooper, Dal
+GB	8	9	11	13	15	10	11.0
+12. Julian Edelman, NEQ
+@Wsh	12	11	12	8	11	13	11.2
+13. Sammy Watkins, KCQ
+Ind	13	15	10	11	10	14	12.2
+14. Larry Fitzgerald, Ari
+@Cin	14	13	15	15	12	16	14.2
+15. Allen Robinson II, Chi
+@Oak	16	20	17	14	14	17	16.3
+16. JuJu Smith-Schuster, PitQ
+Bal	18	14	14	17	20	15	16.3
+17. Marquez Valdes-Scantling, GB
+@Dal	17	28	22	20	17	12	19.3
+18. Sterling Shepard, NYG
+Min	23	22	19	16	18	20	19.7
+19. Emmanuel Sanders, Den
+@LAC	19	17	21	26	19	21	20.5
+20. Jarvis Landry, Cle
+@SF	25	27	16	22	16	18	20.7
+21. Courtland Sutton, Den
+@LAC	21	23	18	19	25	19	20.8
+22. Alshon Jeffery, Phi
+NYJ	22	19	20	18	21	30	21.7
+23. Stefon Diggs, Min
+@NYG	15	18	27	24	32	23	23.2
+24. Josh Gordon, NE
+@Wsh	20	16	31	21	26	27	23.5
+25. D.J. Moore, Car
+Jax	30	26	24	28	23	22	25.5
+26. Marquise Brown, Bal
+@Pit	26	21	29	27	27	25	25.8
+27. DJ Chark Jr., Jax
+@Car	24	32	28	25	28	24	26.8
+28. Calvin Ridley, Atl
+@Hou	38	25	30	31	22	26	28.7
+29. Jamison Crowder, NYJ
+@Phi	32	30	26	23	31	31	28.8
+30. Terry McLaurin, WshQ
+NE	34	31	25	30	34	29	30.5
+31. Robby Anderson, NYJ
+@Phi	27	24	35	32	33	33	30.7
+32. Tyrell Williams, OakQ
+Chi	43	36	32	29	24	28	32.0
+33. Curtis Samuel, Car
+Jax	31	37	36	36	29	35	34.0
+34. John Brown, Buf
+@Ten	37	34	39	37	30	39	36.0
+35. Geronimo Allison, GB
+@Dal	28	40	40	38	36	34	36.0
+36. Will Fuller, Hou
+Atl	29	43	37	39	40	36	37.3
+37. Golden Tate, NYG
+Min	44	38	33	33	39	38	37.5
+38. Mohamed Sanu, Atl
+@Hou	35	41	34	40	44	32	37.7
+39. Demarcus Robinson, KC
+Ind	46	35	38	35	41	37	38.7
+40. Mecole Hardman, KC
+Ind	48	33	42	41	42	40	41.0
+41. Michael Gallup, DalQ
+GB	42	46	45	34	38	42	41.2
+42. Mike Williams, LACQ
+Den	45	39	41	42	35	NR	42.2
+43. Phillip Dorsett II, NE
+@Wsh	33	29	49	47	49	46	42.2
+44. Cole Beasley, Buf
+@Ten	47	45	43	44	37	41	42.8
+45. Auden Tate, Cin
+Ari	36	42	46	45	43	47	43.2
+46. Diontae Johnson, Pit
+Bal	49	44	44	43	45	45	45.0
+47. Dede Westbrook, Jax
+@Car	40	47	47	46	46	48	45.7
+48. Christian Kirk, AriO
+@Cin	NR	NR	23	NR	NR	NR	46.3
+49. KeeSean Johnson, Ari
+@Cin	41	49	48	49	47	49	47.2
+50. Deebo Samuel, SF
+Cle	39	50	NR	NR	50	NR	48.7
+51. Nelson Agholor, Phi
+NYJ	NR	48	NR	48	48	50	49.3
+52. DeSean Jackson, PhiO
+NYJ	NR	NR	NR	NR	NR	43	49.7
+53. Randall Cobb, Dal
+GB	NR	NR	NR	NR	NR	44	49.8

@@ -1,0 +1,21 @@
+QB/L/Ryan Tannehill
+QB/L/Jameis Winston
+QB/L/Jimmy Garoppolo
+QB/H/Matt Ryan
+QB/H/Josh Allen
+
+RB/L/Derrick Henry
+RB/L/Chris Carson
+RB/L/Josh Jacobs
+RB/H/Joe Mixon
+RB/H/Devin Singletary
+RB/H/Marlon Mack
+
+WR/L/Kenny Golladay
+WR/L/Jarvis Landry
+WR/L/Michael Gallup
+TE/L/Tyler Higbee
+WR/H/Courtland Sutton
+WR/H/DK Metcalf
+WR/H/Robby Anderson
+TE/H/Hunter Henry

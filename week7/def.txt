@@ -1,0 +1,40 @@
+1. Bills D/ST, Buf
+Mia	1	1	1	1	1	1	1.0
+2. Patriots D/ST, NE
+@NYJ	3	3	2	2	2	2	2.3
+3. 49ers D/ST, SF
+@Wsh	2	2	4	3	4	4	3.2
+4. Bears D/ST, Chi
+NO	4	4	3	4	3	3	3.5
+5. Saints D/ST, NO
+@Chi	5	5	6	6	6	5	5.5
+6. Jaguars D/ST, Jax
+@Cin	6	7	5	5	8	7	6.3
+7. Seahawks D/ST, Sea
+Bal	9	6	7	10	5	6	7.2
+8. Packers D/ST, GB
+Oak	7	8	8	8	7	8	7.7
+9. Chargers D/ST, LAC
+@Ten	8	9	9	7	9	9	8.5
+10. Cardinals D/ST, Ari
+@NYG	15	10	10	11	12	10	11.3
+11. Vikings D/ST, Min
+@Det	10	15	12	9	10	15	11.8
+12. Texans D/ST, Hou
+@Ind	16	13	11	12	15	13	13.3
+13. Rams D/ST, LAR
+@Atl	17	11	15	14	13	11	13.5
+14. Titans D/ST, Ten
+LAC	11	17	14	13	11	17	13.8
+15. Giants D/ST, NYG
+Ari	14	12	17	15	14	12	14.0
+16. Colts D/ST, Ind
+Hou	13	14	13	16	16	14	14.3
+17. Lions D/ST, Det
+Min	12	19	16	17	18	16	16.3
+18. Redskins D/ST, Wsh
+SF	18	18	18	NR	17	NR	18.8
+19. Dolphins D/ST, Mia
+@Buf	19	16	NR	19	NR	19	19.2
+20. Cowboys D/ST, Dal
+Phi	20	20	20	18	20	18	19.3

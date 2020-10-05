@@ -1,0 +1,52 @@
+1. Travis Kelce, KC
+@Det	1	1	1	1	1	1	1.0
+2. Evan Engram, NYG
+Wsh	2	2	2	2	3	2	2.1
+3. Zach Ertz, Phi
+@GB	5	3	3	3	2	3	3.1
+4. Darren Waller, Oak
+@Ind	3	4	4	4	4	4	3.8
+5. Mark Andrews, BalQ
+Cle	4	6	6	6	5	6	5.5
+6. Delanie Walker, TenQ
+@Atl	8	5	5	5	6	5	5.6
+7. Greg Olsen, CarQ
+@Hou	7	7	7	7	7	7	7.0
+8. Austin Hooper, Atl
+Ten	9	8	8	8	8	8	8.1
+9. T.J. Hockenson, Det
+KC	11	9	10	11	9	9	9.8
+10. Will Dissly, Sea
+@Ari	6	11	9	13	10	12	10.1
+11. Vernon Davis, Wsh
+@NYG	14	10	12	9	14	10	11.5
+12. O.J. Howard, TB
+@LAR	12	14	15	14	11	15	13.5
+13. Tyler Eifert, Cin
+@Pit	15	12	13	12	16	14	13.6
+14. Jason Witten, Dal
+@NO	16	13	14	15	12	13	13.8
+15. Jared Cook, NO
+Dal	13	15	16	16	13	17	15.0
+16. Vance McDonald, PitQ
+Cin	10	NR	11	10	NR	11	15.6
+17. Eric Ebron, Ind
+Oak	19	16	18	17	19	16	17.5
+18. Dallas Goedert, Phi
+@GB	18	21	17	21	22	18	19.5
+19. Trey Burton, Chi
+Min	21	23	21	18	15	19	19.5
+20. Jordan Akins, Hou
+Car	22	17	19	22	17	20	19.5
+21. Jack Doyle, Ind
+Oak	17	19	22	19	23	21	20.1
+22. Jimmy Graham, GB
+Phi	23	18	20	20	18	22	20.1
+23. James O'Shaughnessy, Jax
+@Den	20	20	23	24	24	23	22.3
+24. Noah Fant, Den
+Jax	NR	24	24	23	20	25	23.6
+25. Demetrius Harris, Cle
+@Bal	NR	25	NR	NR	21	24	24.6
+26. Nick Vannett, Pit
+Cin	NR	22	NR	NR	NR	NR	25.3

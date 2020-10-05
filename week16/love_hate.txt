@@ -1,0 +1,19 @@
+QB/L/Matt Ryan
+QB/L/Jameis Winston
+QB/L/Kyler Murray
+QB/H/Tom Brady
+QB/H/Aaron Rodgers
+
+RB/L/Joe Mixon
+RB/L/Austin Ekeler
+RB/L/Devonta Freeman
+RB/H/Le'Veon Bell
+RB/H/Phillip Lindsay
+RB/H/Carlos Hyde
+
+WR/L/Tyler Lockett
+WR/L/Breshad Perriman
+WR/L/Terry McLaurin
+WR/H/Odell Beckham Jr.
+WR/H/Kenny Golladay
+WR/H/John Brown

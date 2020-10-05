@@ -1,0 +1,100 @@
+1. Michael Thomas, NO
+SF	1	1	1	1	1	1	1.0
+2. Davante Adams, GB
+Wsh	3	2	2	3	3	2	2.5
+3. Mike Evans, TB
+Ind	9	4	9	2	2	3	4.8
+4. Julio Jones, AtlQ
+Car	4	3	3	7	7	6	5.0
+5. Tyreek Hill, KC
+@NE	2	6	4	8	5	5	5.0
+6. Julian Edelman, NEQ
+KC	8	7	5	4	4	4	5.3
+7. Chris Godwin, TB
+Ind	7	9	7	6	6	7	7.0
+8. DeAndre Hopkins, Hou
+Den	5	8	8	5	9	8	7.2
+9. DJ Moore, Car
+@Atl	6	5	6	10	8	9	7.3
+10. Courtland Sutton, Den
+@Hou	11	10	10	9	10	11	10.2
+11. Jarvis Landry, CleQ
+Cin	14	11	15	17	11	13	13.5
+12. DeVante Parker, Mia
+@NYJ	15	12	18	13	13	14	14.2
+13. Keenan Allen, LAC
+@Jax	16	13	14	15	12	16	14.3
+14. Kenny Golladay, Det
+@Min	13	14	13	18	14	15	14.5
+15. Cooper Kupp, LAR
+Sea	12	17	16	19	15	17	16.0
+16. Tyler Lockett, Sea
+@LAR	17	26	12	11	18	12	16.0
+17. Odell Beckham Jr., CleQ
+Cin	19	15	19	12	17	19	16.8
+18. Alshon Jeffery, Phi
+NYG	20	18	23	16	16	18	18.5
+19. Adam Thielen, MinQ
+Det	10	16	11	20	NR	10	19.7
+20. DJ Chark Jr., JaxQ
+LAC	23	20	22	22	21	21	21.5
+21. Robert Woods, LAR
+Sea	22	25	17	26	20	25	22.5
+22. Tyler Boyd, Cin
+@Cle	18	21	20	31	19	26	22.5
+23. Stefon Diggs, Min
+Det	21	23	25	23	23	23	23.0
+24. Marvin Jones Jr., Det
+@Min	26	27	21	21	24	20	23.2
+25. John Brown, Buf
+Bal	27	22	24	24	22	22	23.5
+26. Calvin Ridley, AtlQ
+Car	24	24	27	27	25	24	25.2
+27. Christian Kirk, Ari
+Pit	28	30	28	29	28	27	28.3
+28. DK Metcalf, Sea
+@LAR	30	31	30	28	27	28	29.0
+29. Jamison Crowder, NYJ
+Mia	25	33	26	33	33	30	30.0
+30. Sterling Shepard, NYG
+@Phi	33	19	29	38	31	32	30.3
+31. Will Fuller V, HouQ
+Den	32	32	31	32	26	29	30.3
+32. A.J. Brown, TenQ
+@Oak	36	34	33	30	30	31	32.3
+33. Curtis Samuel, Car
+@Atl	29	29	32	36	34	35	32.5
+34. Darius Slayton, NYG
+@Phi	37	28	39	35	29	33	33.5
+35. Emmanuel Sanders, SF
+@NO	38	38	34	37	32	34	35.5
+36. Zach Pascal, Ind
+@TB	31	36	46	34	38	37	37.0
+37. Robby Anderson, NYJ
+Mia	34	35	37	41	39	40	37.7
+38. Terry McLaurin, Wsh
+@GB	40	39	36	44	36	39	39.0
+39. Deebo Samuel, SF
+@NO	41	37	45	43	35	36	39.5
+40. Cole Beasley, Buf
+Bal	39	40	38	47	40	41	40.8
+41. James Washington, Pit
+@Ari	35	43	42	NR	41	48	43.3
+42. Dede Westbrook, JaxQ
+LAC	43	44	43	46	42	44	43.7
+43. Mike Williams, LACQ
+@Jax	46	42	41	48	46	43	44.3
+44. Golden Tate, NYGQ
+@Phi	44	46	40	49	43	46	44.7
+45. Amari Cooper, Dal
+@Chi	NR	NR	NR	14	NR	NR	44.8
+46. Auden Tate, Cin
+@Cle	45	41	35	NR	NR	NR	45.7
+47. Tyrell Williams, Oak
+Ten	48	45	48	45	44	45	45.8
+48. Allen Robinson II, Chi
+Dal	NR	NR	NR	25	NR	NR	46.7
+49. Diontae Johnson, Pit
+@Ari	47	48	47	NR	37	50	46.7
+50. JuJu Smith-Schuster, PitQ
+@Ari	NR	NR	NR	39	NR	38	46.8

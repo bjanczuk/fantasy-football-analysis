@@ -1,0 +1,100 @@
+1. Julio Jones, Atl
+@Ari	2	2	1	2	2	3	2.0
+2. Michael Thomas, NO
+@Jax	4	1	4	1	1	1	2.0
+3. DeAndre Hopkins, Hou
+@KC	3	3	5	3	4	4	3.7
+4. Keenan Allen, LAC
+Pit	1	9	3	4	5	5	4.5
+5. Cooper Kupp, LAR
+SF	6	4	7	9	3	2	5.2
+6. Chris Godwin, TB
+Car	7	5	8	7	6	6	6.5
+7. Amari Cooper, Dal
+@NYJ	9	6	10	5	7	9	7.7
+8. Tyreek Hill, KCQ
+Hou	5	13	2	8	10	8	7.7
+9. Odell Beckham Jr., Cle
+Sea	8	11	6	6	11	7	8.2
+10. Kenny Golladay, Det
+@GB	14	8	11	14	8	11	11.0
+11. Tyler Lockett, Sea
+@Cle	10	15	9	11	12	10	11.2
+12. Adam Thielen, Min
+Phi	12	7	12	13	13	16	12.2
+13. Mike Evans, TB
+Car	11	12	13	12	15	14	12.8
+14. Tyler Boyd, Cin
+@Bal	17	10	16	10	9	19	13.5
+15. DJ Chark Jr., Jax
+NO	16	14	15	16	18	12	15.2
+16. Will Fuller V, Hou
+@KC	15	19	14	18	16	13	15.8
+17. Robert Woods, LAR
+SF	18	18	17	15	17	17	17.0
+18. DJ Moore, Car
+@TB	20	16	19	20	14	15	17.3
+19. Larry Fitzgerald, Ari
+Atl	13	20	20	17	22	21	18.8
+20. Courtland Sutton, Den
+Ten	19	21	22	23	19	20	20.7
+21. Michael Gallup, Dal
+@NYJ	22	22	23	19	23	23	22.0
+22. Jarvis Landry, Cle
+Sea	29	27	18	26	20	18	23.0
+23. JuJu Smith-Schuster, Pit
+@LAC	23	17	27	24	25	25	23.5
+24. Terry McLaurin, Wsh
+@Mia	24	28	25	22	21	27	24.5
+25. Brandin Cooks, LAR
+SF	21	26	21	25	26	28	24.5
+26. Calvin Ridley, Atl
+@Ari	28	24	26	27	28	22	25.8
+27. Curtis Samuel, Car
+@TB	30	23	30	21	27	26	26.2
+28. Marvin Jones Jr., Det
+@GB	26	32	24	31	29	30	28.7
+29. Alshon Jeffery, Phi
+@Min	34	29	33	28	24	29	29.5
+30. Christian Kirk, AriQ
+Atl	35	31	29	29	31	32	31.2
+31. Marquise Brown, BalQ
+Cin	33	25	34	32	34	36	32.3
+32. Emmanuel Sanders, Den
+Ten	31	34	31	33	33	35	32.8
+33. Stefon Diggs, Min
+Phi	25	30	32	38	35	41	33.5
+34. Dede Westbrook, Jax
+NO	37	33	43	30	30	31	34.0
+35. Mohamed Sanu, Atl
+@Ari	27	35	35	34	37	37	34.2
+36. Mike Williams, LAC
+Pit	36	38	37	35	32	34	35.3
+37. Marquez Valdes-Scantling, GB
+Det	39	40	36	39	36	24	35.7
+38. Auden Tate, Cin
+@Bal	38	36	40	36	39	38	37.8
+39. Preston Williams, Mia
+Wsh	32	42	48	37	41	46	41.0
+40. Diontae Johnson, Pit
+@LAC	44	37	45	42	38	40	41.0
+41. Jamison Crowder, NYJ
+Dal	40	45	39	44	40	47	42.5
+42. DK Metcalf, Sea
+@Cle	41	39	44	41	44	49	43.0
+43. Randall Cobb, DalQ
+@NYJ	46	44	47	43	42	42	44.0
+44. Geronimo Allison, GB
+Det	47	47	38	46	45	43	44.3
+45. Robby Anderson, NYJ
+Dal	43	41	46	NR	43	48	45.3
+46. Deebo Samuel, SF
+@LAR	50	NR	42	40	47	44	45.7
+47. Demarcus Robinson, KC
+Hou	42	46	49	45	46	50	46.3
+48. Sammy Watkins, KCD
+Hou	NR	NR	28	NR	NR	NR	47.2
+49. Marquise Goodwin, SF
+@LAR	NR	NR	NR	NR	NR	33	48.0
+50. DeSean Jackson, PhiO
+@Min	NR	NR	41	NR	NR	45	48.3

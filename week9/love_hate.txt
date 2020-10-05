@@ -1,0 +1,25 @@
+QB/L/Dak Prescott
+QB/L/Gardner Minshew
+QB/L/Josh Allen
+QB/L/Kirk Cousins
+QB/H/Kyler Murray
+QB/H/Lamar Jackson
+QB/H/Jacoby Brissett
+
+RB/L/Derrick Henry
+RB/L/Tevin Coleman
+RB/L/Josh Jacobs
+RB/L/Phillip Lindsay
+RB/L/Royce Freeman
+RB/H/LeSean McCoy
+RB/H/Sony Michel
+RB/H/Melvin Gordon
+
+WR/L/Amari Cooper
+WR/L/Allen Robinson
+WR/L/DJ Chark
+WR/L/John Brown
+WR/H/Courtland Sutton
+WR/H/Terry McLaurin
+WR/H/Jarvis Landry
+TE/H/Mark Andrews

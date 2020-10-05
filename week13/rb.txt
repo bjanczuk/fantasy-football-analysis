@@ -1,0 +1,100 @@
+1. Christian McCaffrey, Car
+Wsh	1	1	1	1	1	1	1.0
+2. Dalvin Cook, MinQ
+@Sea	2	2	2	3	2	2	2.2
+3. Saquon Barkley, NYG
+GB	3	5	3	2	4	6	3.8
+4. Leonard Fournette, Jax
+TB	8	3	5	8	3	4	5.2
+5. Nick Chubb, Cle
+@Pit	5	4	4	12	5	7	6.2
+6. Josh Jacobs, OakQ
+@KC	4	6	8	6	6	9	6.5
+7. Le'Veon Bell, NYJ
+@Cin	7	9	9	7	7	8	7.8
+8. Derrick Henry, TenQ
+@Ind	6	7	6	10	8	12	8.2
+9. Aaron Jones, GB
+@NYG	10	8	7	9	9	10	8.8
+10. Todd Gurley II, LAR
+@Ari	9	10	10	11	10	11	10.2
+11. Chris Carson, Sea
+Min	13	12	13	13	11	13	12.5
+12. Mark Ingram II, Bal
+SF	15	11	11	18	12	15	13.7
+13. Melvin Gordon, LAC
+@Den	11	14	12	16	16	18	14.5
+14. Phillip Lindsay, Den
+LAC	12	13	18	17	14	17	15.2
+15. Ronald Jones II, TB
+@Jax	14	16	15	19	17	19	16.7
+16. Miles Sanders, Phi
+@Mia	19	19	26	15	13	14	17.7
+17. Austin Ekeler, LAC
+@Den	20	15	14	20	19	21	18.2
+18. Joe Mixon, Cin
+NYJ	18	18	22	22	15	16	18.5
+19. James White, NE
+@Hou	17	20	20	14	20	23	19.0
+20. Tevin Coleman, SF
+@Bal	21	17	19	24	18	20	19.8
+21. Jonathan Williams, Ind
+Ten	16	21	17	26	21	24	20.8
+22. Kenyan Drake, Ari
+LAR	25	22	16	29	23	25	23.3
+23. Kareem Hunt, Cle
+@Pit	22	23	21	28	24	27	24.2
+24. Sony Michel, NE
+@Hou	23	24	23	31	25	31	26.2
+25. LeSean McCoy, KC
+Oak	24	29	25	23	22	36	26.5
+26. Carlos Hyde, Hou
+NE	26	26	24	33	27	33	28.2
+27. Jamaal Williams, GB
+@NYG	28	25	27	35	26	32	28.8
+28. Benny Snell Jr., Pit
+Cle	27	28	29	32	28	35	29.8
+29. Nyheim Hines, Ind
+Ten	34	30	28	36	30	37	32.5
+30. Jaylen Samuels, Pit
+Cle	29	32	37	38	31	39	34.3
+31. Matt Breida, SFQ
+@Bal	35	27	32	45	32	38	34.8
+32. Alvin Kamara, NO
+@Atl	NR	NR	NR	5	NR	3	35.3
+33. Ezekiel Elliott, Dal
+Buf	NR	NR	NR	4	NR	5	35.5
+34. Derrius Guice, Wsh
+@Car	36	33	33	39	33	41	35.8
+35. Duke Johnson, Hou
+NE	32	35	31	40	35	44	36.2
+36. Darrel Williams, KC
+Oak	33	34	40	34	29	NR	36.8
+37. Rex Burkhead, NE
+@Hou	39	39	36	42	34	40	38.3
+38. Jay Ajayi, Phi
+@Mia	37	31	39	43	37	47	39.0
+39. Adrian Peterson, WshQ
+@Car	40	37	35	41	38	50	40.2
+40. Royce Freeman, Den
+LAC	38	38	41	47	36	45	40.8
+41. Devonta Freeman, Atl
+NO	NR	NR	NR	21	NR	22	41.2
+42. Peyton Barber, TB
+@Jax	43	36	34	48	41	48	41.7
+43. Patrick Laird, Mia
+Phi	41	41	30	49	42	NR	42.3
+44. Rashaad Penny, Sea
+Min	31	42	42	NR	39	49	42.3
+45. Kalen Ballage, Mia
+Phi	42	40	38	46	43	46	42.5
+46. Devin Singletary, Buf
+@Dal	NR	NR	NR	27	NR	28	43.2
+47. David Montgomery, Chi
+@Det	NR	NR	NR	25	NR	30	43.2
+48. Tarik Cohen, Chi
+@Det	NR	NR	NR	30	NR	26	43.3
+49. David Johnson, Ari
+LAR	30	43	49	50	40	NR	43.8
+50. Bo Scarbrough, Det
+Chi	NR	NR	NR	37	NR	34	45.8

@@ -1,0 +1,40 @@
+1. Travis Kelce, KC
+@Ten	1	1	1	2	1	1	1.2
+2. George Kittle, SFQ
+Sea	2	2	2	1	3	2	2.0
+3. Hunter Henry, LAC
+@Oak	4	5	3	3	2	3	3.3
+4. Austin Hooper, Atl
+@NO	3	4	4	4	4	4	3.8
+5. Darren Waller, Oak
+LAC	5	3	5	6	5	5	4.8
+6. Mark Andrews, Bal
+@Cin	6	6	6	7	6	6	6.2
+7. Gerald Everett, LAR
+@Pit	7	8	7	10	8	8	8.0
+8. Jared Cook, NO
+Atl	10	9	8	11	9	11	9.7
+9. Greg Olsen, Car
+@GB	12	10	12	8	10	9	10.2
+10. Jack Doyle, Ind
+Mia	9	16	10	9	11	10	10.8
+11. Evan Engram, NYGO
+@NYJ	NR	7	NR	5	7	7	11.3
+12. T.J. Hockenson, Det
+@Chi	8	15	11	12	13	14	12.2
+13. Jimmy Graham, GB
+Car	15	11	9	14	12	13	12.3
+14. Jason Witten, Dal
+Min	14	12	13	13	14	16	13.7
+15. Jonnu Smith, Ten
+KC	11	18	14	19	17	NR	16.7
+16. O.J. Howard, TB
+Ari	13	NR	15	15	NR	NR	17.7
+17. Kyle Rudolph, Min
+@Dal	NR	14	20	NR	15	15	17.7
+18. Vance McDonald, Pit
+LAR	17	13	17	18	NR	NR	17.8
+19. Chris Herndon, NYJQ
+NYG	16	NR	16	17	19	20	18.2
+20. Eric Ebron, Ind
+Mia	19	17	NR	16	20	19	18.7

@@ -1,0 +1,40 @@
+1. Travis Kelce, KC
+@LAC	1	1	1	1	1	1	1.0
+2. Hunter Henry, LAC
+KC	2	3	2	2	2	2	2.2
+3. Mark Andrews, Bal
+Hou	4	2	3	4	3	3	3.2
+4. Darren Waller, Oak
+Cin	3	4	6	3	4	4	4.0
+5. Zach Ertz, Phi
+NE	5	5	4	5	5	5	4.8
+6. Gerald Everett, LAR
+Chi	6	7	5	7	7	8	6.7
+7. Jared Cook, NO
+@TB	8	6	8	8	6	6	7.0
+8. Greg Olsen, Car
+Atl	7	8	7	6	8	7	7.2
+9. Jack Doyle, Ind
+Jax	10	10	10	13	9	10	10.3
+10. Jason Witten, Dal
+@Det	16	9	9	10	10	9	10.5
+11. T.J. Hockenson, Det
+Dal	14	11	11	9	20	15	13.3
+12. Darren Fells, Hou
+@Bal	9	17	12	15	13	18	14.0
+13. O.J. Howard, TB
+NO	11	14	15	12	NR	11	14.0
+14. Eric Ebron, Ind
+Jax	18	15	17	11	11	12	14.0
+15. Dallas Goedert, Phi
+NE	12	18	16	14	12	14	14.3
+16. Noah Fant, Den
+@Min	15	12	14	16	19	16	15.3
+17. Mike Gesicki, Mia
+Buf	19	16	13	19	14	13	15.7
+18. Tyler Eifert, Cin
+@Oak	20	19	18	17	15	17	17.7
+19. Kyle Rudolph, Min
+Den	17	13	19	NR	17	19	17.7
+20. Ross Dwelley, SF
+Ari	13	20	20	NR	18	20	18.7

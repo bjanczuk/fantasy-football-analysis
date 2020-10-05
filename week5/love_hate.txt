@@ -1,0 +1,25 @@
+QB/L/Tom Brady
+QB/L/Carson Wentz
+QB/L/Jameis Winston
+QB/L/Jacoby Brissett
+QB/H/Dak Prescott
+QB/H/Baker Mayfield
+QB/H/Gardner Minshew
+
+RB/L/Leonard Fournette
+RB/L/Joe Mixon
+RB/L/Aaron Jones
+RB/L/Sony Michel
+RB/H/Le'Veon Bell
+RB/H/Josh Jacobs
+RB/H/Wayne Gallman
+
+WR/L/Adam Thielen
+WR/L/Marquez Valdes-Scantling
+WR/L/Tyler Boyd
+WR/L/Sammy Watkins
+WR/L/Will Fuller
+WR/H/JuJu Smith-Schuster
+WR/H/D.J. Moore
+WR/H/Terry McLaurin
+TE/H/Delanie Walker

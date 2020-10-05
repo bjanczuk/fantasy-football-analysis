@@ -1,0 +1,24 @@
+QB/L/Kirk Cousins
+QB/L/Jared Goff
+QB/L/Matthew Stafford
+QB/H/Carson Wentz
+QB/H/Jacoby Brissett
+QB/H/Philip Rivers
+
+RB/L/Aaron Jones
+RB/L/Jamaal Williams
+RB/L/Todd Gurley
+RB/L/Sony Michel
+RB/L/Marlon Mack
+RB/H/Derrick Henry
+RB/H/Joe Mixon
+RB/H/Carlos Hyde
+RB/H/Melvin Gordon
+
+WR/L/Tyler Lockett
+WR/L/Stefon Diggs
+WR/L/Courtland Sutton
+TE/L/Hunter Henry
+WR/H/Alshon Jeffery
+WR/H/Jarvis Landry
+TE/H/Greg Olsen

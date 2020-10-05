@@ -1,0 +1,25 @@
+QB/L/Aaron Rodgers
+QB/L/Jared Goff
+QB/L/Daniel Jones
+QB/L/Kyle Allen
+QB/H/Josh Allen
+QB/H/Baker Mayfield
+QB/H/Jameis Winston
+QB/H/Mitch Trubisky
+
+RB/L/Mark Ingram
+RB/L/James Conner
+RB/L/Chris Carson
+RB/L/Marlon Mack
+RB/H/Sony Michel
+RB/H/David Montgomery
+RB/H/Devonta Freeman
+
+WR/L/Davante Adams
+WR/L/Terry McLaurin
+WR/L/Tyler Boyd
+WR/L/Tyler Lockett
+TE/L/Darren Waller
+WR/H/Josh Gordon
+WR/H/D.J. Chark
+TE/H/Jared Cook

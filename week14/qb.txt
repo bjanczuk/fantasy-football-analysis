@@ -1,0 +1,40 @@
+1. Lamar Jackson, Bal
+@Buf	1	1	1	1	1	1	1.0
+2. Russell Wilson, Sea
+@LAR	2	2	2	2	2	3	2.2
+3. Deshaun Watson, Hou
+Den	6	3	3	4	3	2	3.5
+4. Carson Wentz, Phi
+NYG	4	7	4	6	6	5	5.3
+5. Patrick Mahomes, KC
+@NE	5	4	9	3	4	8	5.5
+6. Matt Ryan, Atl
+Car	3	6	8	8	5	4	5.7
+7. Aaron Rodgers, GB
+Wsh	7	5	6	5	10	7	6.7
+8. Josh Allen, Buf
+Bal	8	8	5	7	8	9	7.5
+9. Ryan Tannehill, Ten
+@Oak	10	11	7	14	7	6	9.2
+10. Kirk Cousins, Min
+Det	9	9	10	10	9	10	9.5
+11. Jameis Winston, TB
+Ind	12	10	11	12	11	13	11.5
+12. Jacoby Brissett, Ind
+@TB	11	12	14	11	12	11	11.8
+13. Tom Brady, NEQ
+KC	13	16	12	13	14	12	13.3
+14. Kyler Murray, Ari
+Pit	14	14	16	15	13	14	14.3
+15. Drew Brees, NO
+SF	16	13	15	17	16	15	15.3
+16. Sam Darnold, NYJ
+Mia	15	17	13	16	15	16	15.3
+17. Kyle Allen, Car
+@Atl	18	18	19	19	18	20	18.7
+18. Dak Prescott, Dal
+@Chi	NR	NR	NR	9	NR	NR	19.0
+19. Ryan Fitzpatrick, Mia
+@NYJ	17	20	17	20	20	NR	19.2
+20. Jimmy Garoppolo, SF
+@NO	NR	19	NR	NR	17	17	19.3

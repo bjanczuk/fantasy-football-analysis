@@ -1,0 +1,40 @@
+1. George Kittle, SFQ
+@Bal	2	1	2	2	1	1	1.5
+2. Travis Kelce, KC
+Oak	1	2	1	1	2	3	1.7
+3. Zach Ertz, PhiQ
+@Mia	3	3	3	3	3	2	2.8
+4. Hunter Henry, LAC
+@Den	4	4	4	4	4	5	4.2
+5. Darren Waller, Oak
+@KC	5	5	7	5	5	4	5.2
+6. Evan Engram, NYGQ
+GB	6	7	5	8	6	6	6.3
+7. Mark Andrews, Bal
+SF	9	6	6	7	7	7	7.0
+8. Greg Olsen, Car
+Wsh	7	8	10	9	8	9	8.5
+9. Gerald Everett, LARQ
+@Ari	8	9	8	6	10	20	10.2
+10. Noah Fant, Den
+LAC	13	10	11	14	13	14	12.5
+11. Kyle Rudolph, Min
+@Sea	14	14	14	11	11	11	12.5
+12. Dallas Goedert, Phi
+@Mia	11	16	15	12	14	12	13.3
+13. Jack Doyle, Ind
+Ten	10	13	13	16	16	13	13.5
+14. Mike Gesicki, Mia
+Phi	15	12	16	19	12	10	14.0
+15. Jacob Hollister, SeaQ
+Min	17	15	17	15	9	15	14.7
+16. Jared Cook, NO
+@Atl	NR	NR	9	10	NR	8	15.0
+17. Ryan Griffin, NYJ
+@Cin	12	11	20	13	NR	19	16.0
+18. Jimmy Graham, GBQ
+@NYG	16	18	12	18	15	17	16.0
+19. David Njoku, CleIR
+@Pit	NR	20	19	17	17	18	18.7
+20. Jonnu Smith, Ten
+@Ind	19	17	18	NR	18	NR	19.0

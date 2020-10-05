@@ -1,0 +1,28 @@
+QB/L/Dak Prescott
+QB/L/Matt Ryan
+QB/L/Philip Rivers
+QB/L/Kyler Murray
+QB/H/Carson Wentz
+QB/H/Jared Goff
+QB/H/Aaron Rodgers
+QB/H/Matthew Stafford
+
+RB/L/Kerryon Johnson
+RB/L/Chris Carson
+RB/L/James Conner
+RB/L/Sony Michel
+RB/H/Melvin Gordon
+RB/H/Joe Mixon
+RB/H/Jordan Howard
+RB/H/Miles Sanders
+RB/H/Ronald Jones
+RB/H/Peyton Barber
+
+WR/L/Keenan Allen
+WR/L/DJ Chark
+WR/L/Mohamed Sanu
+TE/L/Austin Hooper
+TE/L/Will Dissly
+WR/H/JuJu Smith-Schuster
+WR/H/Geronimo Allison
+TE/H/Jared Cook

@@ -1,0 +1,21 @@
+QB/L/Kirk Cousins
+QB/L/Carson Wentz
+QB/L/Sam Darnold
+QB/H/Drew Brees
+QB/H/Jameis Winston
+
+RB/L/Todd Gurley
+RB/L/Devonta Freeman
+RB/L/Joe Mixon
+RB/H/Tevin Coleman
+RB/H/Kenyan Drake
+RB/H/Lesean McCoy
+
+WR/L/Stefon Diggs
+WR/L/DeVante Parker
+WR/L/Alshon Jeffery
+TE/L/Jack Doyle
+WR/H/Tyler Lockett
+WR/H/John Brown
+WR/H/Christian Kirk
+TE/H/Jared Cook

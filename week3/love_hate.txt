@@ -1,0 +1,25 @@
+QB/L/Dak Prescott
+QB/L/Josh Allen
+QB/L/Jameis Winston
+QB/H/Jared Goff
+QB/H/Baker Mayfield
+QB/H/Mason Rudolph
+
+RB/L/Austin Ekeler
+RB/L/Sony Michel
+RB/L/Todd Gurley
+RB/L/David Montgomery
+RB/H/Le'Veon Bell
+RB/H/Joe Mixon
+RB/H/James Conner
+RB/H/Kerryon Johnson
+
+WR/L/Kenny Golladay
+WR/L/Tyler Lockett
+WR/L/Stefon Diggs
+TE/L/George Kittle
+TE/L/Vance McDonald
+WR/H/Brandin Cooks
+WR/H/Tyrell Williams
+WR/H/John Ross
+TE/H/T.J. Hockenson

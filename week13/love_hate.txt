@@ -1,0 +1,21 @@
+QB/L/Kirk Cousins
+QB/L/Sam Darnold
+QB/L/Aaron Rodgers
+QB/H/Matt Ryan
+QB/H/Jacoby Brissett
+QB/H/Baker Mayfield
+
+RB/L/Melvin Gordon
+RB/L/Josh Jacobs
+RB/L/Jonathan Williams
+RB/H/Chris Carson
+RB/H/Joe Mixon
+RB/H/Tevin Coleman
+
+WR/L/DJ Chark
+WR/L/Cooper Kupp
+WR/L/John Brown
+TE/L/Greg Olsen
+WR/H/Adam Thielen
+WR/H/Amari Cooper
+WR/H/Emmanuel Sanders

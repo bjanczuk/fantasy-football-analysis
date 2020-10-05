@@ -1,0 +1,100 @@
+1. Michael Thomas, NO
+Car	1	1	1	1	1	1	1.0
+2. Julio Jones, Atl
+TB	2	3	3	2	3	2	2.5
+3. Mike Evans, TB
+@Atl	3	2	2	3	2	4	2.7
+4. Chris Godwin, TB
+@Atl	6	5	6	6	6	3	5.3
+5. Tyler Lockett, SeaQ
+@Phi	5	6	7	5	5	7	5.8
+6. Davante Adams, GBQ
+@SF	7	4	8	7	4	9	6.5
+7. Julian Edelman, NEQ
+Dal	8	8	4	8	9	10	7.8
+8. DJ Chark Jr., Jax
+@Ten	12	7	11	9	7	8	9.0
+9. Cooper Kupp, LAR
+Bal	9	10	13	10	13	6	10.2
+10. DJ Moore, Car
+@NO	11	13	9	17	8	11	11.5
+11. Odell Beckham Jr., CleQ
+Mia	4	16	10	13	11	16	11.7
+12. Calvin Ridley, Atl
+TB	10	9	18	11	10	12	11.7
+13. Amari Cooper, Dal
+@NE	16	12	12	14	14	13	13.5
+14. Allen Robinson II, Chi
+NYG	15	18	17	15	12	15	15.3
+15. John Brown, Buf
+Den	20	11	15	22	16	17	16.8
+16. Courtland Sutton, Den
+@Buf	19	17	14	19	15	19	17.2
+17. Jamison Crowder, NYJ
+Oak	13	19	20	16	17	23	18.0
+18. Kenny Golladay, Det
+@Wsh	14	14	25	18	22	22	19.2
+19. Jarvis Landry, CleQ
+Mia	22	15	19	21	20	21	19.7
+20. DK Metcalf, Sea
+@Phi	21	20	21	20	19	20	20.2
+21. DeVante Parker, Mia
+@Cle	18	22	29	32	21	26	24.7
+22. Emmanuel Sanders, SFQ
+GB	32	23	31	27	18	18	24.8
+23. Michael Gallup, Dal
+@NE	17	24	24	29	26	33	25.5
+24. Terry McLaurin, Wsh
+Det	31	25	30	24	25	28	27.2
+25. Curtis Samuel, Car
+@NO	26	26	27	35	23	27	27.3
+26. DeAndre Hopkins, Hou
+Ind	NR	NR	5	4	NR	5	27.8
+27. Marvin Jones Jr., Det
+@Wsh	25	21	28	33	32	30	28.2
+28. Robert Woods, LAR
+Bal	30	41	22	25	28	25	28.5
+29. Alshon Jeffery, PhiQ
+Sea	28	37	26	23	24	34	28.7
+30. Tyrell Williams, Oak
+@NYJ	29	27	34	26	33	31	30.0
+31. Golden Tate, NYG
+@Chi	27	29	37	31	29	32	30.8
+32. T.Y. Hilton, Ind
+@Hou	NR	NR	16	12	NR	14	32.5
+33. Tyler Boyd, Cin
+Pit	23	28	36	34	27	NR	33.2
+34. Deebo Samuel, SFQ
+GB	24	32	35	36	37	35	33.2
+35. Sterling Shepard, NYGQ
+@Chi	36	30	33	38	30	37	34.0
+36. Dede Westbrook, JaxQ
+@Ten	33	33	32	42	36	38	35.7
+37. Randall Cobb, Dal
+@NE	38	31	38	40	34	43	37.3
+38. Brandin Cooks, LAR
+Bal	37	34	42	30	31	NR	37.5
+39. Will Fuller V, Hou
+Ind	NR	NR	23	28	NR	24	38.0
+40. Marquise Brown, Bal
+@LAR	39	36	41	39	43	41	39.8
+41. Chris Conley, Jax
+@Ten	48	39	39	47	39	39	41.8
+42. Russell Gage, Atl
+TB	42	40	44	45	41	40	42.0
+43. Mohamed Sanu, NEQ
+Dal	34	35	NR	NR	NR	36	43.0
+44. Taylor Gabriel, Chi
+NYG	44	43	45	41	42	44	43.2
+45. Phillip Dorsett II, NEQ
+Dal	41	49	49	37	35	NR	43.7
+46. Hunter Renfrow, Oak
+@NYJ	43	38	43	NR	45	45	44.2
+47. Zach Pascal, Ind
+@Hou	NR	NR	40	48	NR	29	45.0
+48. Diontae Johnson, PitQ
+@Cin	35	46	NR	49	40	NR	45.3
+49. Robby Anderson, NYJ
+Oak	45	42	NR	43	48	48	46.2
+50. Darius Slayton, NYG
+@Chi	47	50	50	46	38	NR	47.0

@@ -1,0 +1,23 @@
+QB/L/Kyler Murray
+QB/L/Jameis Winston
+QB/L/Daniel Jones
+QB/L/Aaron Rodgers
+QB/H/Josh Allen
+QB/H/Jared Goff
+QB/H/Matthew Stafford
+
+RB/L/Aaron Jones
+RB/L/Mark Ingram
+RB/L/Devin Singletary
+RB/L/Ty Johnson
+RB/H/Joe Mixon
+RB/H/Devonta Freeman
+RB/H/Todd Gurley
+
+WR/L/Keenan Allen
+WR/L/Christian Kirk
+WR/L/Amari Cooper
+TE/L/TJ Hockenson
+WR/H/Odell Beckham
+WR/H/JuJu Smith-Schuster
+WR/H/Allen Robinson

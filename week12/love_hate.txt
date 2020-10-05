@@ -1,0 +1,22 @@
+QB/L/Matt Ryan
+QB/L/Baker Mayfield
+QB/L/Carson Wentz
+QB/H/Josh Allen
+QB/H/Jimmy Garoppolo
+QB/H/Jared Goff
+
+RB/L/Todd Gurley
+RB/L/Derrick Henry
+RB/L/Jaylen Samuels
+RB/L/Phillip Lindsay
+RB/H/Mark Ingram
+RB/H/Devin Singletary
+RB/H/Brian Hill
+
+WR/L/Odell Beckham
+WR/L/Jamison Crowder
+WR/L/Calvin Ridley
+TE/L/Mark Andrews
+WR/H/Amari Cooper
+WR/H/Golden Tate
+WR/H/Terry McLaurin

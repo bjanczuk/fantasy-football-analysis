@@ -1,0 +1,100 @@
+1. Christian McCaffrey, Car
+@TB	1	1	1	1	1	1	1.0
+2. Dalvin Cook, Min
+Phi	4	2	4	3	2	3	3.0
+3. Alvin Kamara, NOQ
+@Jax	5	3	3	2	3	2	3.0
+4. Ezekiel Elliott, Dal
+@NYJ	2	4	2	6	5	5	4.0
+5. Nick Chubb, Cle
+Sea	9	5	5	5	4	4	5.3
+6. David Johnson, AriQ
+Atl	3	6	6	9	8	8	6.7
+7. Leonard Fournette, Jax
+NO	7	7	8	8	7	7	7.3
+8. Le'Veon Bell, NYJ
+Dal	13	10	7	4	6	6	7.7
+9. Aaron Jones, GB
+Det	8	8	10	7	9	10	8.7
+10. Mark Ingram II, Bal
+Cin	10	12	12	10	11	11	11.0
+11. Chris Carson, Sea
+@Cle	6	14	9	13	17	17	12.7
+12. Derrick Henry, Ten
+@Den	14	13	13	12	15	15	13.7
+13. Melvin Gordon, LAC
+Pit	22	11	19	15	10	12	14.8
+14. Devonta Freeman, Atl
+@Ari	15	17	11	19	16	13	15.2
+15. Kerryon Johnson, Det
+@GB	11	19	14	14	18	18	15.7
+16. Phillip Lindsay, Den
+Ten	19	15	17	16	12	16	15.8
+17. James Conner, Pit
+@LAC	12	16	18	20	14	19	16.5
+18. Damien Williams, KC
+Hou	16	21	21	17	13	14	17.0
+19. Austin Ekeler, LAC
+Pit	17	18	16	18	19	21	18.2
+20. Joe Mixon, Cin
+@Bal	23	20	20	23	21	22	21.5
+21. Tevin Coleman, SF
+@LAR	20	24	22	22	23	20	21.8
+22. Chris Thompson, Wsh
+@Mia	26	22	25	21	24	25	23.8
+23. Kenyan Drake, Mia
+Wsh	25	25	23	25	22	23	23.8
+24. Royce Freeman, Den
+Ten	27	27	24	24	25	24	25.2
+25. Matt Breida, SF
+@LAR	21	23	29	27	26	26	25.3
+26. Adrian Peterson, Wsh
+@Mia	24	34	27	28	27	27	27.8
+27. Jordan Howard, Phi
+@Min	31	28	26	26	28	29	28.0
+28. Carlos Hyde, Hou
+@KC	28	26	31	33	30	30	29.7
+29. Miles Sanders, Phi
+@Min	35	29	30	29	29	28	30.0
+30. Todd Gurley II, LARD
+SF	NR	9	NR	11	NR	9	30.3
+31. Ronald Jones II, TB
+Car	30	30	33	30	31	31	30.8
+32. Malcolm Brown, LAR
+SF	18	42	15	50	20	42	31.2
+33. LeSean McCoy, KC
+Hou	29	33	28	31	36	32	31.5
+34. Peyton Barber, TB
+Car	33	31	34	34	32	34	33.0
+35. Duke Johnson, Hou
+@KC	32	32	35	32	34	35	33.3
+36. Jamaal Williams, GB
+Det	34	38	32	35	33	33	34.2
+37. Ito Smith, Atl
+@Ari	40	35	37	37	35	36	36.7
+38. Giovani Bernard, Cin
+@Bal	38	41	36	39	38	38	38.3
+39. Rashaad Penny, SeaQ
+@Cle	42	37	40	36	39	41	39.2
+40. Chase Edmonds, Ari
+Atl	41	36	46	40	40	37	40.0
+41. Latavius Murray, NO
+@Jax	37	45	38	42	44	39	40.8
+42. Dion Lewis, Ten
+@Den	46	46	39	45	37	40	42.2
+43. Gus Edwards, Bal
+Cin	44	40	41	41	41	46	42.2
+44. Raheem Mostert, SF
+@LAR	45	48	42	38	45	43	43.5
+45. Dare Ogunbowale, TB
+Car	48	39	45	43	43	45	43.8
+46. Mark Walton, Mia
+Wsh	43	47	44	46	42	44	44.3
+47. Benny Snell Jr., Pit
+@LAC	39	44	47	47	48	48	45.5
+48. Darrell Henderson Jr., LAR
+SF	36	NR	43	NR	46	NR	46.3
+49. Alexander Mattison, Min
+Phi	49	43	50	44	47	49	47.0
+50. Ty Johnson, Det
+@GB	NR	50	49	49	49	47	49.2

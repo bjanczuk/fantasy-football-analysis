@@ -1,0 +1,40 @@
+1. Russell Wilson, Sea
+@Atl	1	1	1	1	1	2	1.2
+2. Deshaun Watson, Hou
+Oak	2	2	2	2	2	1	1.8
+3. Aaron Rodgers, GB
+@KC	3	3	4	3	4	3	3.3
+4. Josh Allen, Buf
+Phi	5	7	5	4	5	4	5.0
+5. Matthew Stafford, Det
+NYG	6	4	7	9	6	5	6.2
+6. Tom Brady, NE
+Cle	7	5	6	5	8	6	6.2
+7. Matt Ryan, AtlQ
+Sea	8	6	3	6	3	NR	7.8
+8. Kyler Murray, Ari
+@NO	9	8	10	7	7	8	8.2
+9. Jared Goff, LAR
+Cin	4	9	9	10	11	11	9.0
+10. Jameis Winston, TB
+@Ten	10	11	11	11	9	9	10.2
+11. Teddy Bridgewater, NO
+Ari	11	14	8	12	10	10	10.8
+12. Jacoby Brissett, Ind
+Den	13	12	12	16	16	12	13.5
+13. Gardner Minshew II, Jax
+NYJ	14	10	15	17	14	15	14.2
+14. Mason Rudolph, Pit
+Mia	19	15	13	13	12	13	14.2
+15. Daniel Jones, NYG
+@Det	20	17	14	15	13	14	15.5
+16. Kirk Cousins, Min
+Wsh	NR	NR	NR	8	NR	7	16.5
+17. Carson Wentz, Phi
+@Buf	15	13	18	20	17	17	16.7
+18. Derek Carr, Oak
+@Hou	18	19	17	14	15	18	16.8
+19. Matt Moore, KC
+GB	12	18	16	NR	19	16	17.0
+20. Ryan Tannehill, Ten
+TB	17	16	20	18	18	19	18.0

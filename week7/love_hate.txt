@@ -1,0 +1,27 @@
+QB/L/Josh Allen
+QB/L/Kyler Murray
+QB/L/Jared Goff
+QB/H/Philip Rivers
+QB/H/Matthew Stafford
+QB/H/Jimmy Garoppolo
+QB/H/Matthew Stafford
+
+RB/L/Chris Carson
+RB/L/Phillip Lindsay
+RB/L/Josh Jacobs
+RB/L/Tevin Coleman
+RB/L/Matt Breida
+RB/H/Le'Veon Bell
+RB/H/Kerryon Johnson
+RB/H/Melvin Gordon
+
+WR/L/TY Hilton
+WR/L/Julian Edelman
+WR/L/Cooper Kupp
+WR/L/Robert Woods
+WR/L/Brandin Cooks
+TE/L/George Kittle
+WR/H/Terry McLaurin
+WR/H/Allen Robinson
+WR/H/Robby Anderson
+TE/H/Delanie Walker

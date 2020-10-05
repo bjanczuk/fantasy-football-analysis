@@ -1,0 +1,100 @@
+1. Tyreek Hill, KC
+Oak	1	1	1	2	1	2	1.3
+2. Davante Adams, GBQ
+@NYG	2	3	2	3	2	3	2.5
+3. Chris Godwin, TB
+@Jax	3	2	3	5	4	4	3.5
+4. Julian Edelman, NEQ
+@Hou	5	5	4	6	5	5	5.0
+5. DJ Chark Jr., Jax
+TB	4	6	5	4	7	8	5.7
+6. Mike Evans, TB
+@Jax	10	4	6	8	3	6	6.2
+7. DeAndre Hopkins, Hou
+NE	6	8	8	10	8	9	8.2
+8. DJ Moore, Car
+Wsh	7	7	9	9	10	11	8.8
+9. Tyler Lockett, SeaQ
+Min	9	12	10	7	9	10	9.5
+10. Adam Thielen, MinQ
+@Sea	12	14	7	12	6	7	9.7
+11. Cooper Kupp, LAR
+@Ari	8	13	12	11	11	12	11.2
+12. Jarvis Landry, Cle
+@Pit	13	9	14	16	12	16	13.3
+13. Stefon Diggs, Min
+@Sea	14	16	13	14	13	17	14.5
+14. Odell Beckham Jr., CleQ
+@Pit	11	10	15	19	14	20	14.8
+15. Keenan Allen, LAC
+@Den	15	11	11	20	15	21	15.5
+16. Courtland Sutton, Den
+LAC	21	17	17	22	16	18	18.5
+17. Christian Kirk, Ari
+LAR	18	18	18	25	18	22	19.8
+18. Tyler Boyd, Cin
+NYJ	16	15	21	30	17	25	20.7
+19. Alshon Jeffery, PhiQ
+@Mia	17	28	19	18	20	26	21.3
+20. DeVante Parker, Mia
+Phi	20	20	20	32	19	24	22.5
+21. Jamison Crowder, NYJ
+@Cin	23	21	22	26	22	28	23.7
+22. DK Metcalf, SeaQ
+Min	19	23	23	23	25	29	23.7
+23. Dede Westbrook, Jax
+TB	24	19	25	29	21	27	24.2
+24. Robert Woods, LAR
+@Ari	26	22	24	28	24	32	26.0
+25. Emmanuel Sanders, SFQ
+@Bal	22	26	27	24	28	34	26.8
+26. Brandin Cooks, LAR
+@Ari	25	24	29	31	30	30	28.2
+27. Terry McLaurin, Wsh
+@Car	28	27	30	34	26	36	30.2
+28. Will Fuller V, HouQ
+NE	37	25	26	38	27	31	30.7
+29. Sterling Shepard, NYG
+GB	33	29	33	45	23	23	31.0
+30. Sammy Watkins, KCQ
+Oak	32	30	32	33	29	38	32.3
+31. Michael Thomas, NO
+@Atl	NR	NR	NR	1	NR	1	34.3
+32. T.Y. Hilton, IndO
+Ten	NR	NR	16	21	NR	19	34.8
+33. Curtis Samuel, Car
+Wsh	27	38	35	37	34	46	36.2
+34. A.J. Brown, Ten
+@Ind	35	31	43	40	31	39	36.5
+35. Golden Tate, NYGQ
+GB	31	36	37	42	33	44	37.2
+36. Deebo Samuel, SFQ
+@Bal	29	40	34	43	38	41	37.5
+37. JuJu Smith-Schuster, PitQ
+Cle	34	35	36	47	32	43	37.8
+38. Allen Robinson II, Chi
+@Det	NR	NR	NR	13	NR	13	38.3
+39. John Brown, Buf
+@Dal	NR	NR	48	17	NR	14	38.7
+40. Mohamed Sanu Sr., NEQ
+@Hou	38	39	31	39	36	50	38.8
+41. Tyrell Williams, Oak
+@KC	36	37	39	41	35	45	38.8
+42. Amari Cooper, Dal
+Buf	NR	NR	NR	15	NR	15	39.0
+43. Chris Conley, JaxQ
+TB	41	32	44	48	37	48	41.7
+44. Calvin Ridley, Atl
+NO	NR	NR	28	36	NR	35	42.0
+45. Larry Fitzgerald, Ari
+LAR	40	33	38	NR	41	NR	42.3
+46. Robby Anderson, NYJ
+@Cin	30	34	42	NR	46	NR	42.3
+47. Darius Slayton, NYG
+GB	39	47	40	49	39	49	43.8
+48. Michael Gallup, Dal
+Buf	NR	NR	NR	27	NR	33	44.0
+49. Marquise Brown, Bal
+SF	42	41	45	50	40	NR	44.8
+50. Kenny Golladay, Det
+Chi	NR	NR	NR	35	NR	37	46.0

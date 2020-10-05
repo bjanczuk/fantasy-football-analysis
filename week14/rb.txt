@@ -1,0 +1,100 @@
+1. Christian McCaffrey, Car
+@Atl	1	1	1	1	1	1	1.0
+2. Dalvin Cook, MinQ
+Det	2	2	2	2	2	2	2.0
+3. Leonard Fournette, Jax
+LAC	3	3	3	3	3	3	3.0
+4. Derrick Henry, TenQ
+@Oak	5	4	5	4	4	4	4.3
+5. Alvin Kamara, NO
+SF	6	5	6	6	5	5	5.5
+6. Nick Chubb, Cle
+Cin	4	6	4	8	6	6	5.7
+7. Saquon Barkley, NYG
+@Phi	7	8	7	5	7	7	6.8
+8. Le'Veon Bell, NYJQ
+Mia	9	14	8	10	8	9	9.7
+9. Aaron Jones, GB
+Wsh	10	9	10	11	10	8	9.7
+10. Devonta Freeman, Atl
+Car	11	16	12	9	9	10	11.2
+11. Todd Gurley II, LAR
+Sea	8	13	11	14	11	11	11.3
+12. Josh Jacobs, OakQ
+Ten	14	11	9	12	13	14	12.2
+13. Melvin Gordon, LAC
+@Jax	12	10	15	13	12	12	12.3
+14. Austin Ekeler, LAC
+@Jax	19	7	13	15	15	13	13.7
+15. Chris Carson, Sea
+@LAR	16	12	16	20	16	16	16.0
+16. Mark Ingram II, Bal
+@Buf	13	19	14	18	18	17	16.5
+17. James White, NE
+KC	18	18	22	16	17	15	17.7
+18. Phillip Lindsay, Den
+@Hou	17	15	20	17	20	20	18.2
+19. Joe Mixon, Cin
+@Cle	15	20	18	21	21	22	19.5
+20. Kareem Hunt, Cle
+Cin	20	17	21	23	23	21	20.8
+21. Kenyan Drake, Ari
+Pit	23	23	17	26	19	18	21.0
+22. Devin Singletary, Buf
+Bal	22	22	19	22	22	19	21.0
+23. Miles Sanders, Phi
+NYG	26	21	27	27	14	28	23.8
+24. Marlon Mack, Ind
+@TB	25	24	23	29	24	24	24.8
+25. Sony Michel, NE
+KC	21	25	28	24	28	27	25.5
+26. Tevin Coleman, SF
+@NO	31	31	24	25	25	23	26.5
+27. Jamaal Williams, GBQ
+Wsh	28	28	26	31	27	26	27.7
+28. Carlos Hyde, Hou
+Den	27	27	29	28	29	29	28.2
+29. Derrius Guice, Wsh
+@GB	29	26	33	36	34	37	32.5
+30. Duke Johnson, Hou
+Den	34	32	35	32	31	32	32.7
+31. Benny Snell Jr., Pit
+@Ari	24	30	31	NR	30	30	32.7
+32. Ronald Jones II, TB
+Ind	35	33	30	33	33	35	33.2
+33. LeSean McCoy, KC
+@NE	36	34	37	39	26	43	35.8
+34. Rashaad Penny, Sea
+@LAR	30	42	34	37	40	39	37.0
+35. Jordan Howard, PhiQ
+NYG	33	NR	25	34	NR	33	37.8
+36. Jaylen Samuels, Pit
+@Ari	40	40	36	41	32	41	38.3
+37. Bo Scarbrough, Det
+@Min	37	29	39	45	37	44	38.5
+38. Patrick Laird, Mia
+@NYJ	38	41	44	38	36	36	38.8
+39. Royce Freeman, Den
+@Hou	43	35	43	40	35	40	39.3
+40. Nyheim Hines, Ind
+@TB	39	36	38	43	39	42	39.5
+41. Matt Breida, SF
+@NO	42	37	40	46	38	38	40.2
+42. Damien Williams, KCQ
+@NE	32	NR	32	42	NR	34	40.3
+43. Ezekiel Elliott, Dal
+@Chi	NR	NR	NR	7	NR	NR	43.7
+44. Peyton Barber, TB
+Ind	44	39	47	44	42	48	44.0
+45. Darwin Thompson, KC
+@NE	50	45	49	NR	46	25	44.3
+46. Tarik Cohen, Chi
+Dal	NR	NR	NR	35	NR	31	45.0
+47. James Conner, PitD
+@Ari	NR	NR	NR	19	NR	NR	45.7
+48. Raheem Mostert, SF
+@NO	47	38	42	NR	50	47	45.8
+49. Latavius Murray, NO
+SF	46	46	41	50	44	49	46.0
+50. J.D. McKissic, Det
+@Min	48	43	45	NR	47	46	46.7

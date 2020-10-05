@@ -1,0 +1,40 @@
+1. Austin Hooper, Atl
+LAR	2	2	1	3	2	1	1.8
+2. Evan Engram, NYG
+Ari	1	1	3	1	3	3	2.0
+3. Mark Andrews, Bal
+@Sea	4	3	4	2	1	2	2.7
+4. George Kittle, SF
+@Wsh	3	4	2	4	4	4	3.5
+5. Darren Waller, Oak
+@GB	5	5	5	5	5	5	5.0
+6. Zach Ertz, Phi
+@Dal	6	6	6	6	6	6	6.0
+7. Hunter Henry, LAC
+@Ten	7	7	7	7	7	7	7.0
+8. Gerald Everett, LAR
+@Atl	8	8	8	10	8	8	8.3
+9. Delanie Walker, TenQ
+LAC	9	9	9	8	9	9	8.8
+10. Jason Witten, Dal
+Phi	10	10	11	9	11	10	10.2
+11. Jimmy Graham, GB
+Oak	12	11	10	11	10	11	10.8
+12. T.J. Hockenson, Det
+Min	14	12	12	12	12	12	12.3
+13. Dallas Goedert, Phi
+@Dal	11	13	16	15	13	13	13.5
+14. Jack Doyle, Ind
+Hou	15	14	14	13	15	14	14.2
+15. Eric Ebron, Ind
+Hou	18	16	15	16	14	16	15.8
+16. Dawson Knox, Buf
+Mia	16	19	17	14	18	15	16.5
+17. Josh Hill, NO
+@Chi	19	18	19	NR	16	19	18.7
+18. Tyler Eifert, Cin
+Jax	NR	NR	13	NR	NR	18	19.2
+19. Luke Willson, Sea
+Bal	17	17	NR	18	NR	NR	19.2
+20. Trey Burton, Chi
+NO	NR	NR	18	19	20	17	19.3
